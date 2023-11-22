@@ -1,0 +1,14 @@
+<products>
+    <product>
+        <name>Laptop</name>
+        <price>1000</price>
+        <category>Electronics</category>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <name>Computer</name>
+        <price>2000</price>
+        <category>Electronics</category>
+        <quantity>5</quantity>
+    </product>
+</products>
